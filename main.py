@@ -3,7 +3,7 @@ from cryptography.fernet import Fernet
 import base64
 
 # Replace with your bot token from BotFather
-BOT_TOKEN = "7975337048:AAEYFx_UyG8NPlgT3ed9fnoBs0Y-ObO9UoU"
+BOT_TOKEN = "BOT"
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
